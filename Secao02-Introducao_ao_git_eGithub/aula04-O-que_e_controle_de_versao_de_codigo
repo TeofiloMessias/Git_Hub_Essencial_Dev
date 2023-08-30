@@ -1,0 +1,25 @@
+# O que é Controle de Versão de Código?
+
+Imagine a seguinte situação: 
+- Você precisa editar um código que está no sei Dropbox; 
+- Você faz o download do arquivo (ou abre o arquivo no seu cliente Dropbox); 
+- Você faz as alterações necessárias; 
+- Salva o arquivo no Dropbox;
+
+
+Imagine esta outra situação: 
+- Você trabalha em uma empresa onde os arquivos de programa ficam salvos no Dropbox; 
+- Você e um colega estão trabalhando no mesmo arquivo de programa, e baixam o mesmo arquivo; 
+- Você edita o arquivo, finaliza seu trabalho e salva no Dropbox; 
+- Seu colega edita o arquivo, finaliza o trabalho dele no final do dia e salva o arquivo no Dropbox, 
+sobrescrevendo seu arquivo.
+
+Um sistema de controle de versão resolve este tipo de problema, fazendo o “merge" entre as alterações 
+de forma que ao final tenha-se um arquivo único com todas as alterações
+
+O Git é atualmente o melhor e mais utilizado sistema de controle de versão de códigos 
+Mas existem outros: 
+- Subversion (SVN); 
+- Mercurial; 
+- Concurrent Versioning System (CVS); 
+- Bazaar
